@@ -250,11 +250,11 @@ $ git log --graph
       first commit
 ```
 
-![feature-A 브랜치 생성](https://raw.githubusercontent.com/80xer/ucert-study/master/gitlog/docs/images/1.JPG)
+![feature-A 브랜치 생성](https://raw.githubusercontent.com/80xer/docs/master/gitlog/docs/images/1.JPG)
 
-![feature-A 브랜치 머지](https://raw.githubusercontent.com/80xer/ucert-study/master/gitlog/docs/images/2.JPG)
+![feature-A 브랜치 머지](https://raw.githubusercontent.com/80xer/docs/master/gitlog/docs/images/2.JPG)
 
-![fix-B 브랜치 생성](https://raw.githubusercontent.com/80xer/ucert-study/master/gitlog/docs/images/3.JPG)
+![fix-B 브랜치 생성](https://raw.githubusercontent.com/80xer/docs/master/gitlog/docs/images/3.JPG)
 
 ### Commit 변경하기
 
