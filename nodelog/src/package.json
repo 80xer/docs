@@ -1,0 +1,16 @@
+{
+  "name": "nodelog",
+  "version": "1.0.0",
+  "description": "node basic",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "leetou",
+  "license": "ISC"
+}
