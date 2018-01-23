@@ -250,7 +250,7 @@ $ git log --graph
       first commit
 ```
 
-![feature-A 브랜치 생성](https://raw.githubusercontent.com/80xer/docs/master/gitlog/docs/images/1.JPG)
+![feature-A 브랜치 생성](./images/1.JPG)
 
 ![feature-A 브랜치 머지](https://raw.githubusercontent.com/80xer/docs/master/gitlog/docs/images/2.JPG)
 
